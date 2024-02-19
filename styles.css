@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.upper{
+    border: 1px solid black;
+    width: 500px;
+}
+.upper2{
+    margin: 20px;
+    border: 15px solid blue;
+    padding: 50px;
+    background-color: lightblue;
+    width: 300px;
+    height: 100px;
+    box-sizing: content-box;
+}
+#text{
+    text-align: left;
+}
